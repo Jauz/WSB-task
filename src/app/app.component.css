@@ -1,0 +1,51 @@
+.exampleSpacer {
+    flex: 2 2 auto;
+  }
+  
+  .exampleCard{
+      margin-top: 10px;
+  }
+  
+  .exampleHeaderImage { 
+    background-size: cover;
+  }
+  
+  .title{
+      font-weight: bold;
+  }
+  
+  .imgArticle{
+      height: 400px;
+  }
+  
+  .actionButtons{
+      text-align: center;
+  }
+  
+  .exampleContainer {
+      width: 100%;
+      height: auto;
+      border: 1px solid rgba(0, 0, 0, 0.5);
+  }
+  
+  .exampleSidenavContent {
+      display: flex;
+      height: 75%;
+      align-items: center;
+      justify-content: center;
+  }
+  
+  .exampleSidenav {
+      padding: 20px;
+  }
+  
+  .sourceName {
+      margin-left:5px; 
+  }
+  
+  .listItem:hover{
+      cursor: pointer;
+      background-color: #3f51b5;
+      color: white;
+  }
+  
